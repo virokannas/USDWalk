@@ -32,3 +32,7 @@ to them when running:
 ```shell
 LD_LIBRARY_PATH=$USD_ROOT/lib build/Release/USDWalk my_usd_file.usd
 ```
+
+If you use the sample Kitchen_set.usd, you should be looking at something like this:
+
+![Kitchen example](https://user-images.githubusercontent.com/38055305/44308387-db974500-a382-11e8-99c2-b0d77b6aabed.png)
