@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+build
+Frameworks/SDL2.framework
+Includes
+Libraries
+USDWalk.xcodeproj/project.xcworkspace/xcshareddata
+USDWalk.xcodeproj/project.xcworkspace/xcuserdata
+USDWalk.xcodeproj/xcuserdata
